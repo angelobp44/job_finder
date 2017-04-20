@@ -1,5 +1,8 @@
 require 'sinatra'
 
   get '/' do
-    "bye!"
+    "Hello! "
+  end
+  get '/' do
+    "Welcome to my website!"
   end
